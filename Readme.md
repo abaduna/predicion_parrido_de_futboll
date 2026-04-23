@@ -168,34 +168,4 @@ El secreto no es ser genio. Es:
 3. Practica
 4. Buscar explicaciones simples
 
----
 
-## 🎯 El Siguiente Paso
-
-Ahora estoy pensando en:
-- Agregar datos de clima (¿lluvia = menos goles?)
-- Considerar suspensiones de jugadores
-- Entrenar un modelo de machine learning
-- Comparar mis predicciones con apuestas reales
-
-¿Qué te parecería? ¿Tienen ideas de qué agregar?
-
----
-
-**Si te gustó este contenido:**
-- 👍 Dale like
-- 💬 Comenta tu proyecto favorito de datos
-- 🔄 Comparte con alguien que está aprendiendo Python
-
-¡Los veo en los comentarios!
-
----
-
-#DataScience #Python #Estadística #Predicción #Football #Analytics #MachineLearning #Coding #Programming #LearningJourney
-
----
-
-### 📎 Recursos
-
-**GitHub:** [Link a tu repositorio si lo subes]
-**Explora el código:** Paso a paso en mi perfil
